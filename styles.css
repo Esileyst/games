@@ -1,0 +1,32 @@
+body{
+	background-color:lightgreen;
+	text-align: center;
+
+}
+.game{
+	border-style: solid; 
+	border-width: 5px;
+	border-color: black;
+	background-color: white;
+	vertical-align: top;
+	display: inline-block;
+	width: 18%;
+	text-align: center;
+	height: 450px;
+	border-radius: 10%;
+	margin: 10px;
+}
+img{
+	width: 100px;
+	border-radius: 15px ;
+}
+a{
+	padding: 7px;
+	text-decoration: none; 
+	background-color: lime;
+	color: black;
+}
+html{
+	scroll-behavior: smooth;
+
+}
